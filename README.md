@@ -35,7 +35,7 @@ Welcome to **Bugs Bunny** - your sleek and fast bug tracking solution! 🚀 This
 ## Demo Video 🎥
 Check out the demo video to see Bugs Bunny in action!
 
-[![Bugs Bunny Demo](https://github.com/GeekyVed/Bugs-Bunny/assets/121000404/c8c80304-35a3-45b0-861e-d831a4c30326)]
+https://github.com/GeekyVed/Bugs-Bunny/assets/121000404/c8c80304-35a3-45b0-861e-d831a4c30326
 
 ## Getting Started 🚀
 
